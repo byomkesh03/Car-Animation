@@ -42,7 +42,7 @@ If you want to customize the website or add your own content, you can follow the
 
 1. Open the project folder in your preferred code editor.
 
-2. Modify the index.html file to update the content or structure of the website.
+2. Modify the `index.html` file to update the content or structure of the website.
 
 3. Customize the CSS styles in the styles.css file to change the appearance of the animation.
 
