@@ -29,7 +29,8 @@ To use this website locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/moving-car-animation.git
-
+   
+2. Navigate to the project directory:
 
 
 
