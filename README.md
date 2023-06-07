@@ -51,6 +51,11 @@ If you want to customize the website or add your own content, you can follow the
 5. Save your changes and refresh the webpage to see the updates.
 
 
+## Contributing
+Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
+
+
+
 
 
 
