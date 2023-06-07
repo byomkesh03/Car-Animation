@@ -44,9 +44,9 @@ If you want to customize the website or add your own content, you can follow the
 
 2. Modify the `index.html` file to update the content or structure of the website.
 
-3. Customize the CSS styles in the styles.css file to change the appearance of the animation.
+3. Customize the CSS styles in the `styles.css` file to change the appearance of the animation.
 
-4. If you want to modify the car animation, you can make changes to the JavaScript code in the script.js file.
+4. If you want to modify the car animation, you can make changes to the JavaScript code in the `script.js` file.
 
 5. Save your changes and refresh the webpage to see the updates.
 
