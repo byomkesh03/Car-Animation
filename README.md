@@ -37,6 +37,19 @@ To use this website locally, follow these steps:
 ## Usage
 The website is simple to use. Just open it in your web browser, and you will see the moving car animation on the screen. You can resize the browser window to see the responsiveness in action.
 
+## Customization
+If you want to customize the website or add your own content, you can follow these steps:
+
+Open the project folder in your preferred code editor.
+
+Modify the index.html file to update the content or structure of the website.
+
+Customize the CSS styles in the styles.css file to change the appearance of the animation.
+
+If you want to modify the car animation, you can make changes to the JavaScript code in the script.js file.
+
+Save your changes and refresh the webpage to see the updates.
+
 
 
 
