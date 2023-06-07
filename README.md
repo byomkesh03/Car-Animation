@@ -32,6 +32,9 @@ To use this website locally, follow these steps:
    
 2. Navigate to the project directory: cd moving-car-animation
 
+cd moving-car-animation
+
+
 
 
 
