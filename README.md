@@ -55,7 +55,7 @@ If you want to customize the website or add your own content, you can follow the
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
 ## Acknowledgments
--Inspiration and guidance from the web development community.
+*Inspiration and guidance from the web development community.
 
 ## Contact
 If you have any questions, suggestions, or feedback, please feel free to contact me at byomkeshmahato03@gmail.com.
