@@ -34,6 +34,9 @@ To use this website locally, follow these steps:
 
 3. Open the 'index.html' file in your preferred web browser.
 
+## Usage
+The website is simple to use. Just open it in your web browser, and you will see the moving car animation on the screen. You can resize the browser window to see the responsiveness in action.
+
 
 
 
