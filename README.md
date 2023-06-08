@@ -70,6 +70,4 @@ If you have any questions, suggestions, or feedback, please feel free to contact
 
 
 
-
-
 * Click on the link to view the project :- https://byomkesh03.github.io/Car-Animation/
