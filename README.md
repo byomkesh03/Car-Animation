@@ -13,7 +13,7 @@ You can see a live demo of the website [here](https://byomkesh03.github.io/Car-A
 
 ## Screenshots
 
-![Car-Animation](screenshots/screenshot.png)
+![Car Animation](screenshots/screenshot.png)
 
 ## Features
 
